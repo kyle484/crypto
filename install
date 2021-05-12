@@ -1,0 +1,12 @@
+install.packages('shinythemes')
+install.packages('readxl')
+install.packages('ggplot2')
+install.packages('dplyr')
+install.packages('plotly')
+install.packages('hrbrthemes')
+install.packages('prophet')
+install.packages('xts')
+install.packages('dygraphs')
+install.packages('DT')
+install.packages('shiny')
+
